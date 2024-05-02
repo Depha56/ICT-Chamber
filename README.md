@@ -1,14 +1,14 @@
-# 🚀 Hi there, I'm [Your Name]!
+# 🚀 Hi there, I'm Delphine Ingabire!
 
 ## 👨‍💻 About Me
 
-I'm a Level 3 Computer and Software Engineering student, with a keen focus on software development. My passion lies in creating innovative solutions that solve real-world problems. Currently, I'm pursuing specialized training at Talent4Startup, where I'm honing my skills in various programming languages and technologies.
+I'm a Level 3 Computer and Software Engineering student, with a keen focus on software development. My passion lies in creating innovative solutions that solve real-world problems. Currently, I'm pursuing specialized training at Talent4Startup, where I'm honing my skills in Software Embedded Systems.
 
 ![Profile Picture](path/to/your/profile/picture.jpg)
 
 ## 🎯 Portfolio
 
-### Project 1: [Project Title](https://example.com/project1) - [Image Link]
+### Project 1: Home Automation System(https://example.com/project1) - [Image Link]
 
 A brief description of the project, its purpose, and the technologies used. Include any notable achievements or challenges faced during the project.
 
@@ -29,26 +29,15 @@ This project might be related to a specific area of interest or a unique challen
 ## 🛠️ Skills
 
 - Programming Languages: Java, Python, C++
-- Frameworks/Libraries: React, Django, Spring Boot
-- Tools: Git, Docker, Jenkins
-- Databases: MySQL, PostgreSQL
-
-## 🌱 I’m currently learning...
-
-- Advanced topics in software engineering
-- New programming languages and frameworks
-- Best practices in software development
+- Frameworks/Libraries: React, Node, Express,Typescript
+- Tools: Git, Docker
+- Databases: MySQL, MongoDB
 
 ## 📫 How to reach me:
 
-- Email: your.email@example.com
-- LinkedIn: linkedin.com/in/yourname
-- GitHub: github.com/yourusername
-
-## ⚡ Fun fact:
-
-I love exploring new technologies and solving complex problems. When I'm not coding, you can find me hiking or reading about the latest advancements in tech.
-
+- Email: dephaingabire@gmail.com
+- LinkedIn: www.linkedin.com/in/iidepha
+- GitHub: Depha56
 ## 🖥️ Tools I Use
 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
