@@ -16,27 +16,27 @@ I'm a Level 3 Computer and Software Engineering student, with a keen focus on so
 -Lack of real-time information: Difficulty finding available parking spaces, especially during peak hours.
 -Manual management: Time-consuming and prone to errors, like misplaced tickets or unauthorized parking.
 
-### Proposed Solution:
+#### Proposed Solution:
 
 -Utilize embedded systems with microcontrollers to manage parking spaces.
 -Deploy sensors (ultrasonic, magnetic) to detect vehicle presence in each parking slot.
 -Implement a central control unit to process sensor data and maintain real-time parking availability information.
 -Develop a user interface (mobile app, display board) to show available spaces.
 
-### Benefits:
+#### Benefits:
 
 -Improved parking space utilization: Drivers can easily find available spaces, reducing search time and traffic congestion.
 -Real-time information: Users are informed about parking availability beforehand, leading to better planning.
 -Increased efficiency: Automates parking management tasks and reduces reliance on manual processes.
 
-### Project Functionality:
+#### Project Functionality:
 
 -Parking Space Detection: Sensors continuously monitor parking spaces, sending data to the central control unit.
 -Data Processing: The central unit interprets sensor data, updates a database of available spaces, and triggers alerts.
 -User Interface (Optional): A mobile app or display board shows real-time parking availability for users.
 
-## 🖥️ Tools requires
-### Software:
+### 🖥️ Tools requires
+#### Software:
 - Programming Languages:C++
 - Frameworks/Libraries: ReactJS
 - Tools: Git
@@ -46,7 +46,7 @@ I'm a Level 3 Computer and Software Engineering student, with a keen focus on so
 - Twilio account (for SMS notification)
 - Google Maps API
 
-  ### Hardware:
+  #### Hardware:
  1. Parking Space Sensors:
    - Ultrasonic Sensor: HC-SR04 Ultrasonic Sensor
    - Magnetic Sensor: Reed Switch Sensor
@@ -94,9 +94,9 @@ I'm a Level 3 Computer and Software Engineering student, with a keen focus on so
 
 ### Additional Features:
 
--The system can be extended to integrate with payment systems for automated fee collection. This would require additional modules for secure payment processing and communication with payment gateways.
+-The system can be extended to integrate with payment systems for automated fee collection. 
 -Reservation functionality can be added, allowing users to reserve parking spaces in advance through the mobile app.
--The system can collect historical parking data for analysis. This data can be used to identify peak usage times, optimize pricing strategies, or improve resource allocation in the parking lot.
+-The system can collect historical parking data for analysis. This data can be used to identify peak usage times, optimize pricing strategies.
 
 ## 📫 How to reach me:
 
